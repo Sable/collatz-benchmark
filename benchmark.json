@@ -1,0 +1,17 @@
+{
+   "type": "benchmark",
+   "name":"Collatz",
+   "short-name":"collatz",
+   "description":"Implementation of the Collatz conjecture.",
+   "version":"1.0.0",
+   "input-size":{
+      "small":100,
+      "medium":300000,
+      "large":3000000
+   },
+   "expected-output": {
+      "small": 97,
+      "medium": 230631,
+      "large": 2298025
+   }
+}
