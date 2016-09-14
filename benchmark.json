@@ -6,7 +6,7 @@
    "version":"1.0.0",
    "input-size":{
       "small":100,
-      "medium":300000,
+      "medium":1000000,
       "large":3000000
    },
    "expected-output": {
